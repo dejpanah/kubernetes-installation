@@ -3,11 +3,11 @@
 ## STEP 1: MASTER NODE INSTALLATION
 
 - Create EC2 Instance from UBUNTU AMI with type t2.medium (2 core CPU and 4GB Ram)
-- Github URL: https://github.com/dejpanah/kubernetes-installation
+- Github URL:  https://github.com/dejpanah/kubernetes-installation
 
 ### COMMANDS:
 ```
-git clone https://github.com/dejpanah/kubernetes-installation
+git clone https://github.com/dejpanah/kubernetes-installation.git
 cd kubernetes-installation
 bash install-kubernetes-1.30.sh
 ```
